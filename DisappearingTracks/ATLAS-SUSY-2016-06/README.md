@@ -14,7 +14,7 @@ This recast follows the "EW-production" analysis, hence it is valid for models w
 The following pre-requisites must be installed before compiling the main code:
 
   * Python (>= v2.7)
-  * [ROOT](https://root.cern/) (with Python bindings)
+  * [ROOT](https://root.cern/) (with Python bindings, v>= 6.08/02 as some issues reported with ROOT 5.xx)
   * [Delphes](https://cp3.irmp.ucl.ac.be/projects/delphes)
 
 ## Installation ##
